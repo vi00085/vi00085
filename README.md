@@ -4,8 +4,8 @@
 
 🔍 I’m passionate about **Data Science**, **Machine Learning**, and **AI**.  
 🎓 Recently completed my **Master's in Data Science**, where I specialized in building predictive models, data analysis, and deploying AI-driven solutions.  
-💼 Previously worked as an **Analytics Engineer**, where I gained hands-on experience with **Machine Learning Models**, **Data Pipelines**.  
-🌱 Currently, I’m looking for exciting opportunities in **Data Analytics** or **AI**, with a strong focus on applying my skills in **ML**, **NLP**, and **Data Modelling**.
+💼 Previously worked as an **Project Engineer**, where I gained hands-on experience with **Data Engineering**, **Data Pipelines**.  
+🌱 Currently, I’m looking for exciting opportunities in **Data Analytics** or **AI**, with a strong focus on applying my skills in **ML**, **NLP**, and **Data Analytics**.
 
 ## Projects & Interests
 
