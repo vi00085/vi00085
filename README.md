@@ -18,7 +18,8 @@
 - **Programming Languages:** Python, SQL  
 - **Machine Learning:** Pandas, NumPy, TensorFlow, PyTorch, Scikit-learn  
 - **Modeling:** Random Forest, XGBoost, Multi-Layer Perceptron, KNN, Reinforcement Learning (Q-Learning), Relational Machine Learning (Inductive Logic Programming)  
-- **Natural Language Processing (NLP):** Vectorization techniques (TF-IDF, Word2Vec), Sentiment Analysis, LSTM, BERT  
+- **Natural Language Processing (NLP):** Vectorization techniques (TF-IDF, Word2Vec), Sentiment Analysis, LSTM, BERT
+- **Data Engineering and Analysis**: ETL Pipelines, Data Validation, Data Transformation, SQLAlchemy, Database Management (MySQL, Microsoft SQL Server). 
 - **Business Intelligence:** OLAP cubes with Visual Studio, Data Modeling  
 - **Cloud Platforms:** GCP, AWS  
 - **Tools & Technologies:** Flask, Docker, Git  
